@@ -42,6 +42,7 @@ AI agents can be categorized into various types based on their functionalities:
 | [Best AI Agents (SamurAIGPT)](https://github.com/SamurAIGPT/Best-AI-Agents) | Compilation of top AI agents.            | Various       |
 | [Kyrolabs' Awesome Agents](https://github.com/kyrolabs/awesome-agents) | AI agents for terminal, browser, and editor tasks. | Various       |
 | [Jenqyang's Awesome AI Agents](https://github.com/Jenqyang/Awesome-AI-Agents) | AI-driven autonomous task solvers. | Various       |
+| [TWZRD Agent Intel](https://intel.twzrd.xyz) | Trust scoring for AI agents on Solana. Verify agent wallet identity before x402 micropayments. Remote MCP: `{"mcpServers":{"twzrd-agent-intel":{"url":"https://intel.twzrd.xyz/mcp"}}}` | Solana, MCP |
 
 
 ## 📚 Resources
