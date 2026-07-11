@@ -49,6 +49,7 @@ AI agents can be categorized into various types based on their functionalities:
 Here are some useful links to help you understand, build, and optimize AI agents:
 
 - [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) – A curated list of ML frameworks and libraries.
+- [ToolMagpie](https://toolmagpie.com) - Live-verified directory of AI agents (customer service, sales, coding, no-code builders, MCP servers, automation) that auto-flags dead tools, with side-by-side comparisons and honest pricing.
 - [AI Papers](https://arxiv.org/list/cs.AI/recent) – Latest research papers on AI from arXiv.
 - [LangChain](https://github.com/hwchase17/langchain) – Framework for building applications with LLMs.
 
