@@ -38,6 +38,7 @@ AI agents can be categorized into various types based on their functionalities:
 | [Gemini Code Assist](https://ai.google.com/gemini)  | Google's AI coding tool for multi-language code generation and completion.    | Google AI      |
 | [GitHub Copilot Agent](https://github.com/github/copilot) | AI-powered coding assistant for developers.                              | OpenAI, GitHub |
 | [DeepSeek R1](https://deepseek.com)                | AI assistant integrated with Azure for advanced AI capabilities.              | Microsoft AI   |
+| [Orkas](https://github.com/Orkas-AI/Orkas) | Open-source, local-first desktop AI workforce coordinated by a Commander through one chat. | TypeScript, Electron |
 | [Awesome AI Agents (e2b-dev)](https://github.com/e2b-dev/awesome-ai-agents) | Collection of AI autonomous agents.    | Various       |
 | [Best AI Agents (SamurAIGPT)](https://github.com/SamurAIGPT/Best-AI-Agents) | Compilation of top AI agents.            | Various       |
 | [Kyrolabs' Awesome Agents](https://github.com/kyrolabs/awesome-agents) | AI agents for terminal, browser, and editor tasks. | Various       |
@@ -67,4 +68,3 @@ This repository is licensed under the MIT License - see the [LICENSE](LICENSE) f
 ---
 
 ⭐ **Star this repo** if you find it useful and want to support the project!
-
