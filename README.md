@@ -51,6 +51,7 @@ Here are some useful links to help you understand, build, and optimize AI agents
 - [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) – A curated list of ML frameworks and libraries.
 - [AI Papers](https://arxiv.org/list/cs.AI/recent) – Latest research papers on AI from arXiv.
 - [LangChain](https://github.com/hwchase17/langchain) – Framework for building applications with LLMs.
+- [Agent QA](https://github.com/vostride/agent-qa) – Source-available framework for evaluating AI agents on repeatable browser and mobile tasks, with trajectory capture and pass/fail assertions. Releases use FSL-1.1-ALv2 and convert to Apache-2.0 after two years.
 
 ## 🤝 Contributing
 
