@@ -42,6 +42,7 @@ AI agents can be categorized into various types based on their functionalities:
 | [Best AI Agents (SamurAIGPT)](https://github.com/SamurAIGPT/Best-AI-Agents) | Compilation of top AI agents.            | Various       |
 | [Kyrolabs' Awesome Agents](https://github.com/kyrolabs/awesome-agents) | AI agents for terminal, browser, and editor tasks. | Various       |
 | [Jenqyang's Awesome AI Agents](https://github.com/Jenqyang/Awesome-AI-Agents) | AI-driven autonomous task solvers. | Various       |
+| [Solgrok](https://lmajster.github.io/sgrok/) | Autonomous Solana creator-ops agent (24/7 promo + Bags.fm fee claim/sweep for $SGROK). [GitHub](https://github.com/LMajster/sgrok) | Solana, Bags.fm |
 
 
 ## 📚 Resources
