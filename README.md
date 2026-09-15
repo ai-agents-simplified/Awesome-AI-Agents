@@ -51,6 +51,7 @@ Here are some useful links to help you understand, build, and optimize AI agents
 - [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) – A curated list of ML frameworks and libraries.
 - [AI Papers](https://arxiv.org/list/cs.AI/recent) – Latest research papers on AI from arXiv.
 - [LangChain](https://github.com/hwchase17/langchain) – Framework for building applications with LLMs.
+- [HostDeFi](https://hostdefi.com) — free token-safety scanner grading tokens A+–F from on-chain checks (mint/freeze authority, liquidity, holder concentration) across Solana + 7 EVM chains. Keyless REST API, hosted MCP, x402 endpoints.
 
 ## 🤝 Contributing
 
