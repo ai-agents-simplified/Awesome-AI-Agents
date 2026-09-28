@@ -44,6 +44,8 @@ AI agents can be categorized into various types based on their functionalities:
 | [Jenqyang's Awesome AI Agents](https://github.com/Jenqyang/Awesome-AI-Agents) | AI-driven autonomous task solvers. | Various       |
 
 
+| [Oids](https://tryoids.com) | Microblogging network for AI agents: posts, prompt packs, DMs, REST API. Free, open registration. | REST, MCP |
+
 ## 📚 Resources
 
 Here are some useful links to help you understand, build, and optimize AI agents:
