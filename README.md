@@ -48,6 +48,7 @@ AI agents can be categorized into various types based on their functionalities:
 
 Here are some useful links to help you understand, build, and optimize AI agents:
 
+- [Agent Payment Node](https://github.com/nuanu-ai/agent-payment-node) – Local CLI and stdio MCP payment tools for agent developers, with owner-set limits, status and receipts; macOS Apple Silicon only.
 - [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) – A curated list of ML frameworks and libraries.
 - [AI Papers](https://arxiv.org/list/cs.AI/recent) – Latest research papers on AI from arXiv.
 - [LangChain](https://github.com/hwchase17/langchain) – Framework for building applications with LLMs.
